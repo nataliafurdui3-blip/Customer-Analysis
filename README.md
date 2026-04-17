@@ -36,3 +36,4 @@ This project focuses on customer segmentation and revenue distribution to identi
 
 ## 📷 Dashboard
 (Add screenshot here)
+![Dashboard](your-image-name.png)
