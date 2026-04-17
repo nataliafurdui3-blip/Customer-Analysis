@@ -1,39 +1,54 @@
 # 👥 Customer Analysis & Segmentation
 
 ## 📌 Overview
-This project focuses on customer segmentation and revenue distribution to identify key customer groups and growth trends.
+This project analyzes customer behavior and revenue distribution to identify key customer segments and business growth patterns.
 
-## 📁 Dataset
+The goal is to understand which customers generate the most value and how the business can optimize its strategy.
+
+---
+
+## 📊 Key Metrics
 - Total Customers: 793  
 - Orders per Customer: 6.32  
 - Revenue per Customer: $62,388  
 
-## 📊 Key Insights
+---
 
-### 1. Customer Segmentation
+## 🔍 Key Insights
+
+### 1. High-Value Customers (VIP)
 - VIP customers represent **58% of the customer base**
 - They generate **93% of total revenue**
-→ Strong dependency on high-value customers
+
+👉 The business is highly dependent on VIP customers
+
+---
 
 ### 2. Business Growth
-- Steady increase in both:
-  - number of customers  
-  - total revenue  
-→ Indicates business growth and demand expansion
+- Both revenue and number of customers show steady growth over time  
+- Indicates increasing demand and business expansion  
+
+---
 
 ### 3. Customer Segments
-- **Consumer segment** contributes **51.8% of revenue**
-→ Main revenue source
+- Consumer segment generates **51.8% of total revenue**
+- Main contributor to overall performance  
+
+---
 
 ## 💡 Business Recommendations
 - Focus on retention of VIP customers  
-- Develop strategies to upgrade Regular customers to VIP  
-- Reduce dependency risk by diversifying customer base  
+- Develop strategies to convert Regular customers into VIP  
+- Reduce risk by diversifying revenue across segments  
 
-## 🛠 Tools
+---
+
+## 🛠 Tools Used
 - Power BI  
 - SQL (PostgreSQL)  
 
+---
+
 ## 📷 Dashboard
-(Add screenshot here)
-![Dashboard](your-image-name.png)
+<img width="1920" height="1080" alt="Анализ клиентов" src="https://github.com/user-attachments/assets/ec4cacb7-7270-4c63-bce4-1e39a433f390" />
+
