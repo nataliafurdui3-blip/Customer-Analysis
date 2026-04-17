@@ -1,3 +1,4 @@
+This project demonstrates my ability to analyze customer data and generate actionable business insights.
 # 👥 Customer Analysis & Segmentation
 
 ## 📌 Overview
